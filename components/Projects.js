@@ -10,8 +10,7 @@ export default function Projects() {
       <p className="text-primary-500 font-medium mb-2">My Work</p>
       <h2 className="section-title">Featured Projects</h2>
       <p className="section-subtitle">
-        Some of the projects I've built and shipped recently.
-      </p>
+{"Some of the projects I've built and shipped recently."}      </p>
 
       <div className="grid md:grid-cols-2 gap-8">
         {projects.map((project) => (

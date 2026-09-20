@@ -23,7 +23,7 @@ export default function Hero() {
             {profile.name}
           </h1>
           <h2 className="text-2xl md:text-3xl font-semibold text-gray-500 dark:text-gray-400 mb-6">
-            I&apos;m a <span className="gradient-text">{profile.role}</span>
+            {"I'm a "} <span className="gradient-text">{profile.role}</span>
           </h2>
           <p className="text-gray-600 dark:text-gray-400 max-w-lg mb-8">
             {profile.tagline}
