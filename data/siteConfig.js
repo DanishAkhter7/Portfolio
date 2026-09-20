@@ -46,7 +46,7 @@ export const projects = [
     title: "E-Commerce Platform",
     description:
       "Full-featured online store with cart, payments, admin dashboard aur real-time order tracking.",
-    image: "/projects/project1.png",
+    image: "/projects/project1.PNG",
     tags: ["React.js", "MongoDB", "Stripe", "Tailwind"],
     liveUrl: "https://ecommerce-project-beta-one.vercel.app/",
     githubUrl: "https://github.com/DanishAkhter7/Ecommerce-Project",
@@ -57,7 +57,7 @@ export const projects = [
     title: "ResumeForge — AI Resume Builder",
     description:
        "AI-powered resume builder with 3 templates, smart content suggestions, and one-click PDF export.",
-    image: "/projects/resumeforge.png",
+    image: "/projects/resumeforge.PNG",
     tags: ["React.js", "Vite", "html2canvas", "jsPDF", "OpenAI API"],
     liveUrl: "https://ai-resume-builder-project-dusky.vercel.app/",
     githubUrl: "https://github.com/DanishAkhter7/AI_Resume_Builder-Project",
@@ -68,7 +68,7 @@ export const projects = [
   title: "Expense Tracker",
   description:
     "Full-stack expense tracking app with authentication, category tagging, and an interactive pie-chart dashboard for spending analytics. Note: not deployed live — requires running the Node.js/Express backend locally alongside the frontend for login, signup, and expense management to work.",
-  image: "/projects/expense-tracker.png",
+  image: "/projects/expense-tracker.PNG",
   tags: ["React.js", "Vite", "Tailwind CSS", "Recharts", "Node.js / Express"],
   liveUrl: "https://expence-tracker-app-frontend-git-main-bug-free.vercel.app/",
   githubUrl: "https://github.com/DanishAkhter7/Expence_Tracker-App-Frontend",
@@ -79,7 +79,7 @@ export const projects = [
   title: "AI Interview Prep — Mock Interview Generator",
   description:
     "AI-powered interview practice app that generates role-specific technical questions using the Gemini API, with bookmarking, notes, and PDF export.",
-  image: "/projects/interview-prep.png",
+  image: "/projects/interview-prep.PNG",
   tags: ["React.js", "Vite", "Tailwind CSS", "Gemini API", "jsPDF"],
   liveUrl: "https://ai-interview-preparation-project-lemon.vercel.app/",
   githubUrl: "https://github.com/DanishAkhter7/AI_Interview_Preparation-Project",
@@ -93,7 +93,7 @@ export const certificates = [
     title: "Front-End Web Development",
     issuer: "Meta / Coursera",
     date: "5-4-2026",
-    file: "/certificates/cert1.pdf", // apna certificate PDF yahan daal do
+    file: "/certificates/Cert1.pdf", // apna certificate PDF yahan daal do
     credentialUrl: "", // verify link ho to daal do, warna khali chhod do
   },
   {
@@ -101,7 +101,7 @@ export const certificates = [
     title: "Programming with JavaScript",
     issuer: "Meta / Coursera",
     date: "25-6-2026",
-    file: "/certificates/cert2.pdf",
+    file: "/certificates/Cert2.pdf",
     credentialUrl: "",
   },
   {
@@ -109,7 +109,7 @@ export const certificates = [
     title: "React.js Developer Certification",
     issuer: "Udemy",
     date: "14-7-2026",
-    file: "/certificates/cert3.pdf",
+    file: "/certificates/Cert3.pdf",
     credentialUrl: "",
   },
     {
@@ -117,7 +117,7 @@ export const certificates = [
     title: "Version Control with Git",
     issuer: "Meta / Coursera",
     date: "20-8-2026",
-    file: "/certificates/cert4.pdf", 
+    file: "/certificates/Cert4.pdf", 
     credentialUrl: "", 
   },
   {
@@ -125,7 +125,7 @@ export const certificates = [
     title: "Advertising with Meta",
     issuer: "Meta / Coursera",
     date: "18-9-2026",
-    file: "/certificates/cert5.pdf",
+    file: "/certificates/Cert5.pdf",
     credentialUrl: "",
   },
 ];
